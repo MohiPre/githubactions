@@ -1,0 +1,10 @@
+name: mohan
+on: workflow_dispatch
+jobs:
+  mohimohi:
+    runs-on: ubuntu:latest
+    steps:
+    - name : moha1
+      run: |
+        echo " hello "
+        echo " hi ther "
