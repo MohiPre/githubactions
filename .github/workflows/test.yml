@@ -4,7 +4,5 @@ jobs:
   mohimohi:
     runs-on: ubuntu:latest
     steps:
-    - name : moha1
-      run: |
-        echo " hello "
-        echo " hi ther "
+    - name: moha1
+      run: echo "hello"
